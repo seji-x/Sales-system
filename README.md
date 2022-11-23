@@ -1,3 +1,4 @@
-# Web project for the end of the semester
+Web project for the end of the semester
 
-Web project (fun)
+almost fully functional
+but bad for the interface :D
