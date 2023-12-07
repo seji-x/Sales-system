@@ -1,6 +1,7 @@
-Web project for the end of the semester
+## SALES WEBSITE PROJECT
+### Made by:
+- USE: https://code.visualstudio.com/download
+- Ex: CSS, JAVASCRIP, HTML, PHP
 
-almost fully functional
 
-but bad for the interface :D
 
