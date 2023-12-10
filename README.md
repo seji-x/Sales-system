@@ -1,7 +1,7 @@
 ## SALES WEBSITE PROJECT
 ### Made by:
 - USE: https://code.visualstudio.com/download
-- Ex: CSS, JAVASCRIP, HTML, PHP
+- L: css, html, javascrip, php
 - The interface isn't pretty but it's usable :))
 ### step-by-step process:
 1 Homepage:
