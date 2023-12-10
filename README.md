@@ -2,6 +2,7 @@
 ### Made by:
 - USE: https://code.visualstudio.com/download
 - L: css, html, javascrip, php
+- support: https://www.w3schools.com/ & https://github.com/ntrunghieu
 - The interface isn't pretty but it's usable :))
 ### step-by-step process:
 1 Homepage:
