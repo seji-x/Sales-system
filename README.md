@@ -52,3 +52,15 @@
 
 ## target
 > To create an effective camera sales website, it is essential to showcase high-quality images and detailed descriptions of each product. Implement features such as product comparison, customer reviews, and advanced search options based on specifications. Include high-resolution images and videos, allowing users to preview products from different angles. Transparently communicate return policies and warranties, ensuring customer trust. Design a user-friendly and professional website interface that reflects the brand's quality and value. Additionally, integrate a secure shopping cart and payment system. Implement promotions and special offers to attract and retain customers.
+fasdfasdfasdfasdfasdádfs dá
+> ádfasdfassdfasdfasdfaa
+> ádfasdfasdfasdssdfa
+> ádfasdfasdfasdfasdfasdfasdfa
+> ádfasdfasdfasdfasdfasdfasdfa
+> ádfasdfasdfasfasfasdfasdf
+> ádfasdfasfasdfasdfasdfasdfasdf
+> ádfasdfasdfasdfasdfasdfas
+> ádfasdfasdfasdffasdfasdfasdf
+> adfasdfasdfasdfaaaaaaaaaaaaaaasd
+> fa
+> ádfasdfasdfasdfasdfasd
